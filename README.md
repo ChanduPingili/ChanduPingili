@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandu</h1>
-<h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
+<h3 align="center">A passionate FULL STACK DEVELOPER from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandupingili&label=Profile%20views&color=0e75b6&style=flat" alt="chandupingili" /> </p>
 
